@@ -41,7 +41,7 @@ public class TokoSerbaAda {
                     nama[i] = "Tidak Dikenal";
                     harga[i] = 0;
             }
-            3
+            
             // Hitung total bayar tiap item
             total[i] = harga[i] * jumlah[i];
         }
